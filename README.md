@@ -50,7 +50,7 @@ Basic-Programming-Language/
 
 # 📖 License
 
-## MIT License
+MIT License
 
 # ⭐ Notes
 

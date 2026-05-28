@@ -52,6 +52,8 @@ Basic-Programming-Language/
 
 MIT License
 
+---
+
 # ⭐ Notes
 
 > "Programming is learned by writing programs." - Brian Kernighan
